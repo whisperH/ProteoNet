@@ -1,9 +1,7 @@
 配置文件解释
 ===========================
 
-[![BILIBILI](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/Bilibili.png)](https://space.bilibili.com/46880349)
-
-- 每个模型均对应有各自的配置文件，保存在`Awesome-Backbones/models`下
+- 每个模型均对应有各自的配置文件，保存在`models`下
 - Model
 ```python
 '''

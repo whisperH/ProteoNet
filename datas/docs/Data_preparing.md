@@ -1,8 +1,6 @@
 制作数据集
 ===========================
 
-[![BILIBILI](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/Bilibili.png)](https://space.bilibili.com/46880349)
-
 ## 1. 标签文件制作
 
 - 本次演示以花卉数据集为例，目录结构如下：

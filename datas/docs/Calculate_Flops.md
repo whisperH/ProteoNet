@@ -1,7 +1,6 @@
 获取模型Flops&Param
 ===========================
 
-[![BILIBILI](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/Bilibili.png)](https://space.bilibili.com/46880349)
 - 提供 `tools/get_flops.py` 工具来计算模型参数量与浮点运算量。
 
 **命令行**：

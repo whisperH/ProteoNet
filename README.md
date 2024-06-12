@@ -6,25 +6,25 @@
 
 ## Framework Start
 
-- [环境搭建](https://github.com/Fafa-DL/Awesome-Backbones/blob/main/datas/docs/Environment_setting.md)
+- [环境搭建](https://github.com/whisperH/ProteoNet/blob/main/datas/docs/Environment_setting.md)
 
-- [数据集准备](https://github.com/Fafa-DL/Awesome-Backbones/blob/main/datas/docs/Data_preparing.md)
+- [数据集准备](https://github.com/whisperH/ProteoNet/blob/main/datas/docs/Data_preparing.md)
 
-- [配置文件解释](https://github.com/Fafa-DL/Awesome-Backbones/blob/main/datas/docs/Configs_description.md)
+- [配置文件解释](https://github.com/whisperH/ProteoNet/blob/main/datas/docs/Configs_description.md)
 
-- [训练](https://github.com/Fafa-DL/Awesome-Backbones/blob/main/datas/docs/How_to_train.md)
+- [训练](https://github.com/whisperH/ProteoNet/blob/main/datas/docs/How_to_train.md)
 
-- [模型评估](https://github.com/Fafa-DL/Awesome-Backbones/blob/main/datas/docs/How_to_eval.md)
+- [模型评估](https://github.com/whisperH/ProteoNet/blob/main/datas/docs/How_to_eval.md)
 
-- [计算 Flops\&Params](https://github.com/Fafa-DL/Awesome-Backbones/blob/main/datas/docs/Calculate_Flops.md)
+- [计算 Flops\&Params](https://github.com/whisperH/ProteoNet/blob/main/datas/docs/Calculate_Flops.md)
 
-- [添加新的模型组件](https://github.com/Fafa-DL/Awesome-Backbones/blob/main/datas/docs/Add_modules.md)
+- [添加新的模型组件](https://github.com/whisperH/ProteoNet/blob/main/datas/docs/Add_modules.md)
 
-- [类别激活图可视化](https://github.com/Fafa-DL/Awesome-Backbones/blob/main/datas/docs/CAM_visualization.md)
+- [类别激活图可视化](https://github.com/whisperH/ProteoNet/blob/main/datas/docs/CAM_visualization.md)
 
-- [学习率策略可视化](https://github.com/Fafa-DL/Awesome-Backbones/blob/main/datas/docs/Lr_visualization.md)
+- [学习率策略可视化](https://github.com/whisperH/ProteoNet/blob/main/datas/docs/Lr_visualization.md)
 
-- [数据增强策略可视化](https://github.com/Fafa-DL/Awesome-Backbones/blob/main/datas/docs/Pipeline_visualization.md)
+- [数据增强策略可视化](https://github.com/whisperH/ProteoNet/blob/main/datas/docs/Pipeline_visualization.md)
 
 ## 运行 cmd
 
@@ -64,3 +64,4 @@ python tools/vis_cam.py /code_path/MassSpectrumCls/datasets/test/DNK/ models/res
         year={2020}
     }
 
+    this repo is based on [repo](https://github.com/Fafa-DL/Awesome-Backbones)

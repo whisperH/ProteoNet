@@ -1,7 +1,6 @@
 查看数据增强结果
 ===========================
 
-[![BILIBILI](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/Bilibili.png)](https://space.bilibili.com/46880349)
 - 提供 `tools/vis_pipeline.py` 工具来批量显示数据增强pipeline结果
 
 **命令行**：

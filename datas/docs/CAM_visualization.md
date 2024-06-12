@@ -1,10 +1,8 @@
 类别激活图可视化
 ===========================
 
-[![BILIBILI](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/Bilibili.png)](https://space.bilibili.com/46880349)
-
 - 提供 `tools/vis_cam.py` 工具来可视化类别激活图。请使用 `pip install grad-cam` 安装依赖，版本≥1.3.6
-- 在`Awesome-Backbones/models/`下找到对应配置文件
+- 在`models/`下找到对应配置文件
 - 修改data_cfg中test的ckpt路径，改为训练完毕的权重
 目前支持的方法有：
 

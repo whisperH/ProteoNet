@@ -1,8 +1,6 @@
 增加新的模块
 ===========================
 
-[![BILIBILI](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/Bilibili.png)](https://space.bilibili.com/46880349)
-
 - 一个完整的模型由`Backbone`、`Neck`、`Head`、`Loss`组成，在文件夹`configs`下可以找到
 - 主干网络：通常是一个特征提取网络，例如 ResNet、MobileNet
 - 颈部：用于连接主干网络和头部的组件，例如 GlobalAveragePooling

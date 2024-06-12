@@ -1,8 +1,6 @@
 学习率策略可视化
 ===========================
 
-[![BILIBILI](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/Bilibili.png)](https://space.bilibili.com/46880349)
-
 - 提供 `tools/vis_lr.py` 工具来可视化学习率。
 
 **命令行**：

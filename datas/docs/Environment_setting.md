@@ -1,8 +1,6 @@
 环境搭建
 ===========================
 
-[![BILIBILI](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/Bilibili.png)](https://space.bilibili.com/46880349)
-
 - 建议使用[Anaconda](https://www.anaconda.com/)进行环境管理，创建环境命令如下
 ```bash
 conda create -n [name] python=3.6 其中[name]改成自己的环境名，如[name]->torch，conda create -n torch python=3.6
