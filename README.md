@@ -40,7 +40,7 @@ Generate K-fold cross validation data, the default is 5 folds. After running, tr
 python tools/split_data.py
 ```
 
-训练/验证/可视化模型
+train/valid model
 
 ```markup
 # Use the first GPU to train the 4th validation fold of the PartNet model
