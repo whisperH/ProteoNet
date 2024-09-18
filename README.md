@@ -54,6 +54,9 @@ python tools/evaluation.py models/resnet/MS_ResWeightedPartNet50_FL.py --kflod-v
 python tools/vis_cam.py /code_path/MassSpectrumCls/datasets/test/DNK/ models/resnet/MS_ResWeightedPartNet50_FL.py --save-path /code_path/MassSpectrumCls/logs/ResPartNet/WeightedPartFLfold4/
 ```
 
+# data
+If you need data, please contact the authors by email in time.
+
 # weights file
 Kidney dataset: https://drive.google.com/drive/folders/1GvZXIyypbd7_nT8kc7MS7trY1-37MWgC?usp=drive_link
 
